@@ -10,5 +10,6 @@ export * from './Support';
 // export * from './Security';
 // export * from './Social';
 // export * from './Document';
+// export * from './Medias';
 
 export type { IconProps, IconID } from './types';

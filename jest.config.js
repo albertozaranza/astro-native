@@ -29,6 +29,7 @@ module.exports = {
     '!src/components/Icons/Security/**/*.{ts,tsx}',
     '!src/components/Icons/Social/**/*.{ts,tsx}',
     '!src/components/Icons/Document/**/*.{ts,tsx}',
+    '!src/components/Icons/Medias/**/*.{ts,tsx}',
     '!src/components/**/stories/**/*',
   ],
   coverageReporters: ['lcov', 'text', 'text-summary'],
